@@ -5,6 +5,8 @@ KELAS : TI.20.D1
 
 NIM   : 312010135
 
+![WhatsApp Image 2022-03-16 at 21 22 26](https://user-images.githubusercontent.com/101665497/158624980-c3f5396a-863f-4aa7-ae94-463110f0f523.jpeg)
+
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda amati perubahan nya adakah eror ketika terjadi kesalahan penulisan tag ?
 
 tidak ada eror pada saat penulisan tag
